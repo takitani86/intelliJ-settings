@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="a7e0e1" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-1cc88194:17128e37363:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>
